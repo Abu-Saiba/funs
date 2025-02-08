@@ -12,6 +12,7 @@ def print_welcome():
     Reach the treasure to win the game.
     ***************************************
     """)
+    #ch00se_path()
 
 def choose_path():
     def set_choice(choice):
